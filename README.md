@@ -1,8 +1,5 @@
 # yl.github.io
----
-layout: page
-title: 关于 (About)
----
+
 
 这里是杨柳的主页。
 

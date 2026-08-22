@@ -25,7 +25,7 @@ title: 关于 (About)
 我人生的正解是什么呢？我现在都没想明白。
 但我还是写下：
 
-<div style="font-family: '楷体', 'Kaiti', 'STKaiti', serif;" markdown="1">
+<div style="font-family: '楷体', 'Kaiti', 'STKaiti', serif; font-style: normal;" markdown="1">
 
 > 我见过最深邃的蔚蓝，<br>
 > 不止于潮起潮落的平庸。<br>

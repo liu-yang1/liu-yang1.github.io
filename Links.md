@@ -1,6 +1,8 @@
 ---
 layout: page
-title: 联系方式 (Links)
+title: "联系方式 (Links)"
 ---
-WeChat：ylyl9541<br>
-小红书：Yll棒<br>
+
+WeChat: yly19541<br>
+小红书: Yll棒<br>
+

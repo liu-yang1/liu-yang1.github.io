@@ -2,7 +2,7 @@
 layout: page
 title: 关于 (About)
 ---
-
+<blockquote style="font-family: '楷体', 'Kaiti', 'STKaiti', serif; font-style: normal;">
 这里是杨柳的主页。<br>
 ....<br>
 迷茫的开头，不知如何自我介绍了<br>
@@ -22,10 +22,9 @@ anyway<br>
 喜欢大漠里赤足问沙，<br>
 喜欢在缺氧与肌肉酸痛中收获最纯粹的平静。<br>
 
-我人生的正解是什么呢？我现在都没想明白。
-但我还是写下：
-
-<blockquote style="font-family: '楷体', 'Kaiti', 'STKaiti', serif; font-style: normal;">
+我人生的正解是什么呢？我现在都没想明白。<br>
+但我还是写下：<br>
+<br>
 我见过最深邃的蔚蓝，<br>
 不止于潮起潮落的平庸。<br>
 那是静水深流之下，蛰伏的巨大能量，<br>

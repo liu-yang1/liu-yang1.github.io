@@ -2,7 +2,8 @@
 layout: page
 title: 关于 (About)
 ---
-<blockquote style="font-family: '楷体', 'Kaiti', 'STKaiti', serif; font-style: normal;">
+
+<div style="font-family: '楷体', 'Kaiti', 'STKaiti', serif;">
 这里是杨柳的主页。<br>
 ....<br>
 迷茫的开头，不知如何自我介绍了<br>
